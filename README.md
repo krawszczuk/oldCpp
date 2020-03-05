@@ -1,3 +1,3 @@
 # oldCpp
 old project in C++
-adding, sorting and rotating binary tree
+adding and sorting binary tree
